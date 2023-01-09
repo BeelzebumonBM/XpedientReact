@@ -15,7 +15,7 @@ h4{
     color: gray;
 }
 .background {
-    background: linear-gradient(to top, #53a8b6, #5585b5);
+    background: linear-gradient(to top, #252d2e, #565b5f);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -29,6 +29,6 @@ html{
 }
 
 .table-row:hover {
-    background-color: #5585b5;
+    background-color: #565b5f;
     opacity: 75%;
   }
